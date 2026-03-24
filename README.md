@@ -96,4 +96,4 @@ El sistema debe incluir:
 
 ## 🧑‍💻 Autor
 
-- Tu nombre aquí
+- Owen Rojas
